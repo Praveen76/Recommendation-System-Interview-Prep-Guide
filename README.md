@@ -44,3 +44,7 @@ Your contributions are welcome and can help make this repository even more valua
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for educational and non-commercial purposes.
 
 Happy learning and good luck with your recommender systems interviews!
+
+
+## **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
